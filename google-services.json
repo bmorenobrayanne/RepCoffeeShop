@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "737853474128",
+    "firebase_url": "https://projectcoffeebd-default-rtdb.firebaseio.com",
+    "project_id": "projectcoffeebd",
+    "storage_bucket": "projectcoffeebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737853474128:android:df8449571dc9e00ab29855",
+        "android_client_info": {
+          "package_name": "com.example.coffeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XZJM2wlR940SUzYadrYBucdBN0HmqT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
